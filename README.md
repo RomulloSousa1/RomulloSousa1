@@ -53,10 +53,16 @@ Desenvolvedor full-stack com experiência em construção de sistemas web comple
 ## Estatísticas
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RomulloSousa1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomulloSousa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
+<!-- GitHub Stats Extended — substituto oficial do github-readme-stats -->
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=RomulloSousa1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomulloSousa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+<div align="center">
+  
+<!-- GitHub Streak Stats -->
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=RomulloSousa1&theme=tokyonight&hide_border=true&locale=pt_BR)
+ 
 </div>
 
 ---
